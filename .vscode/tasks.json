@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "args": ["run", "compile"],
+      "command": "npm",
+      "group": "build",
+      "isBackground": false,
+      "label": "Build Extension",
+      "problemMatcher": ["$tsc"],
+      "type": "shell"
+    }
+  ]
+}

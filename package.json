@@ -1,0 +1,43 @@
+{
+  "name": "one-darkppuccin",
+  "displayName": "One DarkPuccin",
+  "description": "A VS Code theme inspired by One Dark and Catppuccin.",
+  "version": "0.0.1",  "publisher": "ni3rav",
+  "license": "MIT",
+  "author": {
+    "name": "ni3rav"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ni3rav/one-darkppuccin"
+  },
+  "bugs": {
+    "url": "https://github.com/ni3rav/one-darkppuccin/issues"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "one dark",
+    "catppuccin",
+    "color-theme"
+  ],
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "One DarkPuccin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-darkppuccin-color-theme.json"
+      }
+    ]
+  }
+}
