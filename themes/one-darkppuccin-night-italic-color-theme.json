@@ -481,7 +481,7 @@
         "keyword.other.definition"
       ],
       "settings": {
-        "foreground": "#c678dd",
+        "foreground": "#b9b0e9",
         "fontStyle": "italic"
       }
     },
@@ -503,7 +503,7 @@
         "storage.type.const"
       ],
       "settings": {
-        "foreground": "#c678dd",
+        "foreground": "#b9b0e9",
         "fontStyle": "italic"
       }
     },
