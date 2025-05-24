@@ -2,7 +2,7 @@
   "name": "one-darkppuccin",
   "displayName": "One DarkPuccin",
   "description": "A VS Code theme inspired by One Dark and Catppuccin.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "ni3rav",
   "license": "MIT",
   "author": {
@@ -53,6 +53,16 @@
         "label": "One DarkPuccin Night Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/one-darkppuccin-night-italic-color-theme.json"
+      },
+      {
+        "label": "One DarkPuccin Vivid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-darkppuccin-vivid.json"
+      },
+      {
+        "label": "One DarkPuccin Vivid Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-darlppuccin-vivid-italic.json"
       }
     ]
   },
