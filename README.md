@@ -79,6 +79,11 @@ One DarkPuccin provides rich syntax highlighting for a wide range of programming
 
 If you'd like to contribute to this theme, please visit the [GitHub repository](https://github.com/ni3rav/one-darkppuccin).
 
+## Credits
+
+- [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
+- [Catppuccin](https://github.com/catppuccin/vscode)
+
 ## License
 
 [MIT License](./LICENSE)
